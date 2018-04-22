@@ -1,5 +1,3 @@
-Android-DemoTextView
-===
 # 從零開始學 kotlin 程式設計
 ![](https://i.imgur.com/wbyhsUH.jpg)
 
@@ -12,7 +10,7 @@ Android-DemoTextView
 
 
 ---
-# Android-DemoHello 
+# Android-DemoTextView
 > 範例程式碼下載點：[按這裡](http://bit.ly/2vzBYoD)
 
 > 影片教學：：[按這裡](http://bit.ly/2HAmyCS)
